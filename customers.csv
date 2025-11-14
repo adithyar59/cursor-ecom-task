@@ -1,0 +1,17 @@
+customer_id,name,email,phone,city
+1,John Smith,john.smith@email.com,555-0101,New York
+2,Emily Johnson,emily.johnson@email.com,555-0102,Los Angeles
+3,Michael Williams,michael.williams@email.com,555-0103,Chicago
+4,Sarah Brown,sarah.brown@email.com,555-0104,Houston
+5,David Jones,david.jones@email.com,555-0105,Phoenix
+6,Jessica Garcia,jessica.garcia@email.com,555-0106,Philadelphia
+7,Christopher Miller,chris.miller@email.com,555-0107,San Antonio
+8,Amanda Davis,amanda.davis@email.com,555-0108,San Diego
+9,James Rodriguez,james.rodriguez@email.com,555-0109,Dallas
+10,Ashley Martinez,ashley.martinez@email.com,555-0110,San Jose
+11,Daniel Wilson,daniel.wilson@email.com,555-0111,Austin
+12,Michelle Anderson,michelle.anderson@email.com,555-0112,Jacksonville
+13,Matthew Taylor,matthew.taylor@email.com,555-0113,San Francisco
+14,Laura Thomas,laura.thomas@email.com,555-0114,Columbus
+15,Kevin Jackson,kevin.jackson@email.com,555-0115,Charlotte
+
